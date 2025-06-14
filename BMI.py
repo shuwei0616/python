@@ -5,4 +5,4 @@ w = float(input('請輸入體重(kg)：'))
 # 使用 float 轉換成浮點數 ( 因為體重可能會有小數點 )
 
 bmi = w/(h*h)                           
-print(f'你的 BMI 數值為：{bmi}')    
+print(f'你的 BMI 數值為：{bmi}')
